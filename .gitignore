@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test & coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Migrations
+migrations/
+
+# Local config
+.env
+*.yaml
+!config/config-*.yaml

@@ -1,0 +1,4 @@
+app_name: Enterprise FastAPI Template
+debug: true
+database_url: postgresql+asyncpg://user:pass@localhost/devdb
+llm_provider: ollama

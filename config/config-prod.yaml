@@ -1,0 +1,4 @@
+app_name: Enterprise FastAPI Template
+debug: false
+database_url: postgresql+asyncpg://user:pass@localhost/proddb
+llm_provider: gemini
